@@ -23,15 +23,15 @@
 
 ### Artists That Deserve Some Love
 
-| 🎤 Artist           | 🔗 Link |
-|---------------------|--------|
-| **Bongshang**        | [Listen](https://open.spotify.com/artist/79lBbsi6vxKG31ziKDvjYj?si=HSRAO5b4QBqkT27D20xoxA) |
-| **Leif Vollebeckk**  | [Listen](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs?si=q0Y6TE4nSXuVlo0OFvZ-3w) |
-| **The Dead Tongues** | [Listen](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK?si=Xuk4Kk_US1Ot15XXG2RufA) |
+| Artist           | Link | Favorite Track |
+|---------------------|--------|----------------|
+| **Bongshang**        | [Listen](https://open.spotify.com/artist/79lBbsi6vxKG31ziKDvjYj?si=HSRAO5b4QBqkT27D20xoxA) | [Things to Come](https://open.spotify.com/track/1YNIE2XkG5p4ekG3uy7ckN?si=aa08f5101f3c4cc6) |
+| **Leif Vollebeckk**  | [Listen](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs?si=q0Y6TE4nSXuVlo0OFvZ-3w) | [Long Blue Light](https://open.spotify.com/track/4HOKq0bN93FsAhtZ5Wdq3y?si=9d4c8c7e494e46fd) |
+| **The Dead Tongues** | [Listen](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK?si=Xuk4Kk_US1Ot15XXG2RufA) | [Body of Light](https://open.spotify.com/track/1mEWFvuJVPulB1DqZgKiz9?si=d62b0290b2224c6c) |
 
 > Want more? [📡 My Spotify](https://open.spotify.com/user/12185750730?si=83ce01002a6d4a06)
 
-## 🧙‍♂️ Final Thoughts
+## Final Thoughts
 
 > **This isn't just a profile — it's a state of mind.**
 
