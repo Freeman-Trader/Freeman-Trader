@@ -15,9 +15,9 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Freeman-Trader&theme=github_dark" height="150"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Freeman-Trader&theme=github_dark" height="150"/>
 </p>
-<p align="left">
+<!-- <p align="left">
     <img src="https://leetcard.jacoblin.cool/Freeman-Trader?theme=dark&ext=heatmap"/>
-</p>
+</p> -->
 
 ## Spotify
 
