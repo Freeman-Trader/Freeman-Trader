@@ -41,6 +41,8 @@
 - [ ] Compose, produce and publish my own song
 - [ ] Sail all seven seas
 - [ ] Develop and publish my own LAN game
+- [ ] Create my own slider android phone
+- [ ] Create a dancing game
 
 > **So much to do, and so little time do it.**
 <!-- > **This isn't just a profile — it's a state of mind.** -->
